@@ -12,7 +12,8 @@ and love to work on a shell but hate to fire a terminal-emulator just to
 type a command, view the output and close again. It is too much key
 strokes, it is annoying to go away from the window you are currently
 working on (e.g. browser) and it's annoying to be blocked waiting until
-the command returns (while you could go on editing.
+the command returns (while you could go on browsing or editing or
+whatever).
 
 Here comes `shellfutures`. Think of it as a subscription to the output
 of a command. I invoke it as `x` from `dmenu` which is bound to `alt-p`
